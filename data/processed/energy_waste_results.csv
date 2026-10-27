@@ -1,0 +1,5 @@
+Machine_ID,Machine_Name,Energy_kWh,Production_Quantity,Price_Per_kWh,Potential_Waste,Energy_Cost,Potential_Waste_Cost
+MAC-001,Cutting Machine,5.0,100,7.0,False,35.0,0.0
+MAC-002,Drilling Machine,4.0,0,7.0,True,28.0,28.0
+MAC-003,Packaging Machine,2.5,150,10.0,False,25.0,0.0
+MAC-004,Welding Machine,3.0,0,10.0,True,30.0,30.0

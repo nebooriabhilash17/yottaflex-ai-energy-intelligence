@@ -1,0 +1,21 @@
+Machine_ID,Machine_Name,Rated_Power_kW,Status
+MAC-001,Factory Machine 01,15,ACTIVE
+MAC-002,Factory Machine 02,15,ACTIVE
+MAC-003,Factory Machine 03,27,ACTIVE
+MAC-004,Factory Machine 04,10,ACTIVE
+MAC-005,Factory Machine 05,38,ACTIVE
+MAC-006,Factory Machine 06,16,ACTIVE
+MAC-007,Factory Machine 07,43,ACTIVE
+MAC-008,Factory Machine 08,20,ACTIVE
+MAC-009,Factory Machine 09,43,ACTIVE
+MAC-010,Factory Machine 10,15,ACTIVE
+MAC-011,Factory Machine 11,22,ACTIVE
+MAC-012,Factory Machine 12,21,ACTIVE
+MAC-013,Factory Machine 13,10,ACTIVE
+MAC-014,Factory Machine 14,40,ACTIVE
+MAC-015,Factory Machine 15,37,ACTIVE
+MAC-016,Factory Machine 16,28,ACTIVE
+MAC-017,Factory Machine 17,13,ACTIVE
+MAC-018,Factory Machine 18,16,ACTIVE
+MAC-019,Factory Machine 19,28,ACTIVE
+MAC-020,Factory Machine 20,24,ACTIVE

@@ -1,0 +1,3 @@
+Reading_ID,Anomaly_Type,Description
+ENG-MTR-PLANT-001-001-202607250000,DUPLICATE_READING,Reading appears more than once
+ENG-MTR-PLANT-001-001-202607250015,ENERGY_MISMATCH,Energy does not match average power

@@ -1,0 +1,38 @@
+YOTTAFLEX AI
+INDUSTRIAL ENERGY MONITORING - EXECUTIVE SUMMARY
+================================================
+
+PROJECT OVERVIEW
+----------------
+Machines analyzed: 20
+Production batches requiring investigation: 186
+Days with unusual energy consumption: 6
+Machines classified as high energy intensity: 5
+
+ELECTRICITY COST ANALYSIS
+-------------------------
+Total tariff-based machine electricity cost: Rs 3,543,808.88
+Energy associated with flagged batches: 20,123.78 kWh
+Estimated flagged-batch cost at assumed Rs 7.00/kWh:
+Rs 140,866.46
+
+TOP 5 MACHINES REQUIRING INVESTIGATION
+-------------------------------------
+ Priority_Rank Machine_ID     Efficiency_Status  Flagged_Batch_Count  Estimated_Cost_Rs  Total_Electricity_Cost_Rs  Cost_Rank
+             1    MAC-014 HIGH ENERGY INTENSITY                   13           15727.81                  294660.32          3
+             2    MAC-009 HIGH ENERGY INTENSITY                   12           15594.46                  316190.70          1
+             3    MAC-015 HIGH ENERGY INTENSITY                   12           13213.41                  272996.63          5
+             4    MAC-007 HIGH ENERGY INTENSITY                    9           11554.13                  315767.51          2
+             5    MAC-016                NORMAL                   10            8699.04                  205922.32          6
+
+IMPORTANT INTERPRETATION
+------------------------
+The results are generated from synthetic project data.
+Anomaly flags identify records for investigation; they do not
+prove that energy was wasted.
+
+Total electricity cost uses the time-based synthetic tariff schedule.
+Flagged-batch cost uses an assumed rate of Rs 7/kWh.
+Flagged-batch costs are not confirmed avoidable costs or savings.
+High energy intensity is a screening indicator, not proof of a fault.
+Real-world use would require validated meter, production, and tariff data.

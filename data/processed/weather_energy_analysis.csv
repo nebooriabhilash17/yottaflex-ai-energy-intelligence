@@ -1,0 +1,5 @@
+Temperature_Range,Average_Energy_kWh,Total_Energy_kWh,Reading_Count
+Below 25C,3.161,154025.99,48720
+25-30C,3.153,198229.38,62880
+30-35C,3.152,183801.55,58320
+Above 35C,3.157,9091.42,2880

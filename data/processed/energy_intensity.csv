@@ -1,0 +1,4 @@
+Machine_ID,Machine_Name,Energy_kWh,Production_Quantity,Energy_Intensity_kWh_per_Unit,Investigation_Required
+MAC-001,Cutting Machine,50.0,100,0.5,False
+MAC-002,Drilling Machine,40.0,0,,True
+MAC-003,Packaging Machine,30.0,150,0.2,False

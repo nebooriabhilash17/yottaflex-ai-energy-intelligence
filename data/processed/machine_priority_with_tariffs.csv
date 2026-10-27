@@ -1,0 +1,21 @@
+Machine_ID,Flagged_Batches,Energy_kWh,Flagged_Batch_Cost_Flat_Rate_Rs,Average_Z_Score,Priority_Rank,Recommended_Action,Total_Energy_kWh,Total_Electricity_Cost_Rs,Cost_Rank
+MAC-014,13,2246.83,15727.809999999998,2.3898873699481005,1,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",45360.63,294660.32,3
+MAC-009,12,2227.78,15594.46,2.47352725771202,2,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",48610.48,316190.7,1
+MAC-015,12,1887.6299999999997,13213.41,2.420730602246879,3,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",41972.82,272996.63,5
+MAC-007,9,1650.5900000000001,11554.130000000001,2.597338796355971,4,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",48561.29,315767.51,2
+MAC-016,10,1242.72,8699.039999999999,2.631843018303641,5,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",31723.65,205922.32,6
+MAC-003,10,1185.4599999999998,8298.22,2.4846275883364166,6,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",30751.35,200062.07,8
+MAC-005,7,1126.52,7885.64,2.2266524528384166,7,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",43242.01,280914.8,4
+MAC-011,11,1036.6,7256.2,2.3861818379240916,8,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",24984.73,162440.59,10
+MAC-020,10,1014.78,7103.460000000001,2.354499541622542,9,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",26988.11,175091.51,9
+MAC-019,8,961.21,6728.47,2.363982743254253,10,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",31680.46,205878.27,7
+MAC-008,11,926.8299999999999,6487.8099999999995,2.5766490222089384,11,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",22680.56,147661.12,12
+MAC-012,9,791.23,5538.61,2.369003462633669,12,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",23904.53,155327.34,11
+MAC-006,10,682.3400000000001,4776.38,2.359329366275881,13,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",18160.74,118077.16,14
+MAC-018,8,549.18,3844.26,2.6813527026240545,14,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",18180.56,118161.76,13
+MAC-002,8,525.1700000000001,3676.19,2.3733928766850747,15,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",16969.75,110421.14,17
+MAC-010,8,523.93,3667.5099999999998,2.4732142261414243,16,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",17013.85,110677.85,15
+MAC-017,9,516.9599999999999,3618.72,2.4477425927394654,17,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",14741.12,95958.48,18
+MAC-001,6,391.53000000000003,2740.7099999999996,2.4563699246839543,18,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",17034.47,110670.05,16
+MAC-004,8,340.6,2384.2,2.620691359550131,19,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",11300.79,73476.87,19
+MAC-013,7,295.89,2071.23,2.601565180701369,20,"Inspect operating conditions, production mix, idle energy use, and meter accuracy.",11286.44,73452.39,20

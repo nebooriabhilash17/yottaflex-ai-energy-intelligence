@@ -1,0 +1,6 @@
+Machine_ID,Energy_Per_Unit_kWh,Priority,Recommendation,Estimated_Savings_kWh,Estimated_Savings_Rs
+MAC-009,2.3654735279805355,HIGH,"Inspect machine operating hours, idle consumption, production mix, and meter accuracy.",20594.170823576023,144159.19576503217
+MAC-007,2.344144236339061,HIGH,"Inspect machine operating hours, idle consumption, production mix, and meter accuracy.",20318.67002361074,142230.69016527518
+MAC-005,2.329347500538677,HIGH,"Inspect machine operating hours, idle consumption, production mix, and meter accuracy.",17933.25847858225,125532.80935007575
+MAC-014,2.234293517880012,HIGH,"Inspect machine operating hours, idle consumption, production mix, and meter accuracy.",17682.421199427758,123776.9483959943
+MAC-015,2.160874382207578,HIGH,"Inspect machine operating hours, idle consumption, production mix, and meter accuracy.",15491.616755870591,108441.31729109414
